@@ -1,0 +1,1 @@
+# graphql-directive-checker
