@@ -1,0 +1,13 @@
+query Query {
+    Type {
+        id
+    }
+}
+
+query QueryTest {
+    testQueryType {
+        id
+        title
+        name
+    }
+}
